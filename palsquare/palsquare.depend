@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395055945 source:d:\cpp\uasco.git\palsquare\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
