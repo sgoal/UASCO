@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395039821 source:d:\cpp\uasco.git\transform\main.cpp
+	<iostream>
+	<fstream>
+
