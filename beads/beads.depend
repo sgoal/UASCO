@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1394766044 source:d:\cpp\beads\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
