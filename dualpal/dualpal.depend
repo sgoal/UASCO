@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395058275 source:d:\cpp\uasco.git\dualpal\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
