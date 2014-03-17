@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1395021659 source:d:\cpp\milke2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1395023673 source:d:\cpp\milk2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
